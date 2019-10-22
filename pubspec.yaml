@@ -1,7 +1,7 @@
 name: url_route
 description: A new Flutter package project.
-version: 0.0.1
-author: QQXNZ <89232369@qq.com>
+version: 0.0.2
+author: QQXNZ <qq89232369@gmail.com>
 homepage: https://github.com/qqxnz/flutter_url_route
 
 environment:
