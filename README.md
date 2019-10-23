@@ -5,7 +5,7 @@ A new Flutter package project.
 - 引入框架:
 ```
 dependencies:
-    url_route: ^0.0.3
+    url_route: ^0.0.4
 ```
 
 
